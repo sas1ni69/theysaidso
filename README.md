@@ -1,4 +1,4 @@
-# Theysaidso
+# They Said So
 
 TODO: Write a gem description
 
