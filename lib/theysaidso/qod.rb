@@ -12,8 +12,8 @@ class Theysaidso::QOD
     @author   = attrs['contents']['author']
     @length   = attrs['contents']['length']
     @tags     = attrs['contents']['tags']
+    @categroy = attrs['contents']['categroy']
     @success  = attrs['success']['total']
-    @category = attrs['category']
   end
 
   def self.fetch
