@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Get quote of the day
+`Theysaidso::QOD.fetch`
 
 ## Contributing
 
