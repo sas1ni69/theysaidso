@@ -1,6 +1,6 @@
 # They Said So
 
-TODO: Write a gem description
+[![Gem Version](https://badge.fury.io/rb/theysaidso.svg)](http://badge.fury.io/rb/theysaidso)
 
 ## Installation
 
